@@ -1,0 +1,65 @@
+body
+{
+	font-family:'Arial';
+	margin: 0 auto;
+	color:#333333;
+	width:1200px;
+}
+
+p
+{
+	text-align:justify;
+}
+
+.contact-infos
+{
+	border:1px dotted orange;
+	width:50%;
+	float:left;
+    margin-top: 45px;
+}
+.contact-avatar
+{
+	float:left;
+	width:100%
+}
+
+.avatar
+{
+	width:200px;
+	height:200px;
+	float:left;
+}
+
+h1 
+{
+	text-decoration:underline;
+	float:left;
+}
+h2 {
+    border-bottom: 2px solid orange;
+}
+
+a {
+	color:orange;
+}
+
+a:hover {
+	color:red;
+}
+
+ul 
+{
+	list-style-type:square;
+}
+
+.logo
+{
+	float:right;
+}
+
+.title
+{
+    width: 100%;
+    float: left;
+}
